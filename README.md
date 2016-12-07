@@ -31,7 +31,7 @@ The Custom Resource Lambda requires the following permissions for this plugin to
 ## Notes
 Delete on this resource has no impact.
 Amazon Inspector will still be associated with the IAM Role.
-
+The only way to disconnect Amazon Inspector from the Role is by deleting the Role.
 ## License
 [The MIT License (MIT)](/LICENSE)
 
