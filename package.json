@@ -15,13 +15,13 @@
   },
   "keywords": [
     "AWS",
+    "Amazon",
     "CloudFormation",
     "Custom Resource",
     "Plugin",
     "Lulo",
-    "ElasticIP",
-    "IP",
-    "EC2"
+    "Inspector",
+    "IAM"
   ],
   "author": "Carl Nordenfelt",
   "license": "MIT",
