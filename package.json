@@ -1,5 +1,5 @@
 {
-  "name": "lulo-plugin-amazon-inspetor-role",
+  "name": "lulo-plugin-amazon-inspector-role",
   "version": "1.0.0",
   "scripts": {
     "lint": "eslint src tests",
